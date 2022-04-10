@@ -1,0 +1,5 @@
+ZippyJob
+
+Users can list or purchase services from other users
+Users can leave reviews on services
+Services can be payed via bank transfer
